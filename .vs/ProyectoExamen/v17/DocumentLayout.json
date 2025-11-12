@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProyectoExamen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63BC08AE-5EBE-42FF-B7B0-2476F60823F5}|ProyectoExamen.csproj|c:\\proyectoexamen\\views\\ventas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63BC08AE-5EBE-42FF-B7B0-2476F60823F5}|ProyectoExamen.csproj|solutionrelative:views\\ventas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63BC08AE-5EBE-42FF-B7B0-2476F60823F5}|ProyectoExamen.csproj|c:\\proyectoexamen\\views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63BC08AE-5EBE-42FF-B7B0-2476F60823F5}|ProyectoExamen.csproj|solutionrelative:views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63BC08AE-5EBE-42FF-B7B0-2476F60823F5}|ProyectoExamen.csproj|c:\\proyectoexamen\\services\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63BC08AE-5EBE-42FF-B7B0-2476F60823F5}|ProyectoExamen.csproj|solutionrelative:services\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63BC08AE-5EBE-42FF-B7B0-2476F60823F5}|ProyectoExamen.csproj|c:\\proyectoexamen\\dtos\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63BC08AE-5EBE-42FF-B7B0-2476F60823F5}|ProyectoExamen.csproj|solutionrelative:dtos\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63BC08AE-5EBE-42FF-B7B0-2476F60823F5}|ProyectoExamen.csproj|c:\\proyectoexamen\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63BC08AE-5EBE-42FF-B7B0-2476F60823F5}|ProyectoExamen.csproj|solutionrelative:models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63BC08AE-5EBE-42FF-B7B0-2476F60823F5}|ProyectoExamen.csproj|c:\\proyectoexamen\\repositories\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63BC08AE-5EBE-42FF-B7B0-2476F60823F5}|ProyectoExamen.csproj|solutionrelative:repositories\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63BC08AE-5EBE-42FF-B7B0-2476F60823F5}|ProyectoExamen.csproj|c:\\proyectoexamen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63BC08AE-5EBE-42FF-B7B0-2476F60823F5}|ProyectoExamen.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63BC08AE-5EBE-42FF-B7B0-2476F60823F5}|ProyectoExamen.csproj|c:\\proyectoexamen\\repositories\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63BC08AE-5EBE-42FF-B7B0-2476F60823F5}|ProyectoExamen.csproj|solutionrelative:repositories\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63BC08AE-5EBE-42FF-B7B0-2476F60823F5}|ProyectoExamen.csproj|c:\\proyectoexamen\\services\\iventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63BC08AE-5EBE-42FF-B7B0-2476F60823F5}|ProyectoExamen.csproj|solutionrelative:services\\iventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63BC08AE-5EBE-42FF-B7B0-2476F60823F5}|ProyectoExamen.csproj|c:\\proyectoexamen\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63BC08AE-5EBE-42FF-B7B0-2476F60823F5}|ProyectoExamen.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63BC08AE-5EBE-42FF-B7B0-2476F60823F5}|ProyectoExamen.csproj|c:\\proyectoexamen\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63BC08AE-5EBE-42FF-B7B0-2476F60823F5}|ProyectoExamen.csproj|solutionrelative:controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63BC08AE-5EBE-42FF-B7B0-2476F60823F5}|ProyectoExamen.csproj|c:\\proyectoexamen\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{63BC08AE-5EBE-42FF-B7B0-2476F60823F5}|ProyectoExamen.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63BC08AE-5EBE-42FF-B7B0-2476F60823F5}|ProyectoExamen.csproj|c:\\proyectoexamen\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63BC08AE-5EBE-42FF-B7B0-2476F60823F5}|ProyectoExamen.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63BC08AE-5EBE-42FF-B7B0-2476F60823F5}|ProyectoExamen.csproj|c:\\proyectoexamen\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63BC08AE-5EBE-42FF-B7B0-2476F60823F5}|ProyectoExamen.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\ProyectoExamen\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\ProyectoExamen\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T10:09:23.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\ProyectoExamen\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\ProyectoExamen\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-12T09:52:47.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ProyectoExamen\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\ProyectoExamen\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-12T09:02:30.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProyectoExamen\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\ProyectoExamen\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T09:01:35.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\ProyectoExamen\\Views\\Ventas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ventas\\Create.cshtml",
+              "ToolTip": "C:\\ProyectoExamen\\Views\\Ventas\\Create.cshtml",
+              "RelativeToolTip": "Views\\Ventas\\Create.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T09:01:14.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ProyectoExamen\\Views\\Ventas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ventas\\Index.cshtml",
+              "ToolTip": "C:\\ProyectoExamen\\Views\\Ventas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Ventas\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T09:00:34.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\ProyectoExamen\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VentasController.cs",
+              "ToolTip": "C:\\ProyectoExamen\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "Controllers\\VentasController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:58:50.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VentaService.cs",
+              "DocumentMoniker": "C:\\ProyectoExamen\\Services\\VentaService.cs",
+              "RelativeDocumentMoniker": "Services\\VentaService.cs",
+              "ToolTip": "C:\\ProyectoExamen\\Services\\VentaService.cs",
+              "RelativeToolTip": "Services\\VentaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:58:05.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IVentaService.cs",
+              "DocumentMoniker": "C:\\ProyectoExamen\\Services\\IVentaService.cs",
+              "RelativeDocumentMoniker": "Services\\IVentaService.cs",
+              "ToolTip": "C:\\ProyectoExamen\\Services\\IVentaService.cs",
+              "RelativeToolTip": "Services\\IVentaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:57:09.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VentaRepository.cs",
+              "DocumentMoniker": "C:\\ProyectoExamen\\Repositories\\VentaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\VentaRepository.cs",
+              "ToolTip": "C:\\ProyectoExamen\\Repositories\\VentaRepository.cs",
+              "RelativeToolTip": "Repositories\\VentaRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:56:14.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IVentaRepository.cs",
+              "DocumentMoniker": "C:\\ProyectoExamen\\Repositories\\IVentaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IVentaRepository.cs",
+              "ToolTip": "C:\\ProyectoExamen\\Repositories\\IVentaRepository.cs",
+              "RelativeToolTip": "Repositories\\IVentaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:54:09.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\ProyectoExamen\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\ProyectoExamen\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:53:02.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VentaDTO.cs",
+              "DocumentMoniker": "C:\\ProyectoExamen\\DTOs\\VentaDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\VentaDTO.cs",
+              "ToolTip": "C:\\ProyectoExamen\\DTOs\\VentaDTO.cs",
+              "RelativeToolTip": "DTOs\\VentaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:51:30.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\ProyectoExamen\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "Models\\Venta.cs",
+              "ToolTip": "C:\\ProyectoExamen\\Models\\Venta.cs",
+              "RelativeToolTip": "Models\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:50:37.028Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

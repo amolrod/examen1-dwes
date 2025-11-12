@@ -1,0 +1,67 @@
+﻿@{
+    Layout = null;
+}
+@model IEnumerable<ProyectoExamen.DTOs.VentaDTO>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ventas</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+
+    <h2>Listado de Ventas</h2>
+
+    @if (TempData["Success"] != null)
+    {
+        <p><strong>@TempData["Success"]</strong></p>
+    }
+
+    <div>
+        <a href="/Ventas/Create">+ Nueva Venta</a>
+    </div>
+
+    <hr>
+
+    <form method="get" action="/Ventas/Index">
+        <input type="text" name="filtro" value="@ViewBag.Filtro" placeholder="Filtrar por producto..." />
+        <button type="submit">Buscar</button>
+        @if (!string.IsNullOrEmpty(ViewBag.Filtro))
+        {
+            <a href="/Ventas/Index">Limpiar</a>
+        }
+    </form>
+
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Producto</th>
+                <th>Cantidad</th>
+                <th>Precio</th>
+                <th>Subtotal</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var venta in Model)
+            {
+                <tr>
+                    <td>@venta.IdVenta</td>
+                    <td>@venta.Producto</td>
+                    <td>@venta.Cantidad</td>
+                    <td>@venta.Precio.ToString("C2")</td>
+                    <td>@venta.Subtotal.ToString("C2")</td>
+                    <td>
+                        <form action="/Ventas/Delete/@venta.IdVenta" method="post" style="display:inline;">
+                            @Html.AntiForgeryToken()
+                            <button type="submit">Eliminar</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</body>
+</html>
